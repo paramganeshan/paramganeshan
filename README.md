@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paramganeshan, aka Param Balaganeshan
 - 👀 I’m interested in gamifying the world. 
-- 🌱 I’m currently completing a degree in Software Engineering (Big Data)
+- 🌱 I’m completed a degree in Software Engineering (Big Data)
 - 💞️ I like work on games and ideas that gamify boring things
 
 <!---
