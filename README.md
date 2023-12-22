@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @paramganeshan, aka Param Balaganeshan
-- 👀 I’m interested in gamifying the world. 
-- 🌱 I’m currently completing a degree in Software Engineering (Big Data)
-- 💞️ I like work on games and ideas that gamify boring things
+- 👀 I’m interested in data and gamifying the world. 
+- 🌱 Bachelor of Engineering -  Software Engineering,  Big Data Specialization
 
 <!---
 paramganeshan/paramganeshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
